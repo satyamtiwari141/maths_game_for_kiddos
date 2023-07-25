@@ -5,4 +5,4 @@ For Example
 #
 ScreenShot of the Application 
 
-<img src="1.jpg" style="width:340px; height:360px"/>
+<img src="1.jpg" style="width:240px; height:360px"/>
