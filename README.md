@@ -5,4 +5,4 @@ For Example
 #
 ScreenShot of the Application 
 
-<img src="https://github.com/satyamtiwari141/maths_game_for_kiddos/1.jpg" style="width:200px; height:200px"/>
+<img src="1.jpg" style="width:200px; height:200px"/>
