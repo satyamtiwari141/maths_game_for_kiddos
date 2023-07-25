@@ -7,4 +7,4 @@ ScreenShot of the Application
 
 <img align="left" src="1.jpg" style="width:340px; height:660px"/>
 <img align="center" src="2.jpg" style="width:340px; height:660px"/>
-<img align="right" src="3.jpg" style="width:340px; height:660px"/>
+<img src="3.jpg" style="width:340px; height:660px"/>
