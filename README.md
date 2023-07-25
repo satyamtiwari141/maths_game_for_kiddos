@@ -5,7 +5,7 @@ For Example
 #
 ScreenShot of the Application 
 #
-![1](https://github.com/satyamtiwari141/maths_game_for_kiddos/assets/78593659/313db5e4-4510-45a0-a2ff-31b0fdca126c |  width=100)
+![1](https://github.com/satyamtiwari141/maths_game_for_kiddos/assets/78593659/313db5e4-4510-45a0-a2ff-31b0fdca126c)
 #
 ![2](https://github.com/satyamtiwari141/maths_game_for_kiddos/assets/78593659/28442ab5-4c63-444f-bcf5-1d19ab3d99f3)
 #
